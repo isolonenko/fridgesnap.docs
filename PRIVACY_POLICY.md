@@ -129,13 +129,13 @@ You can opt out of analytics collection by contacting us.
 ### 6.4 Correction
 You can request correction of any inaccurate data.
 
-To exercise these rights, contact us at privacy@fridgesnap.app.
+To exercise these rights, contact us at ivan.slnnk@gmail.com.
 
 ---
 
 ## 7. Children's Privacy
 
-FridgeSnap is rated 4+ and does not knowingly collect information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately at privacy@fridgesnap.app.
+FridgeSnap is rated 4+ and does not knowingly collect information from children under 13. If you believe we have collected information from a child under 13, please contact us immediately at ivan.slnnk@gmail.com.
 
 ---
 
@@ -191,9 +191,9 @@ Your continued use of the App after changes constitutes acceptance of the update
 
 If you have questions or concerns about this Privacy Policy, please contact us:
 
-**Email:** privacy@fridgesnap.app
+**Email:** ivan.slnnk@gmail.com (privacy, support, or any requests)
 
-**Support:** support@fridgesnap.app
+**Support:** ivan.slnnk@gmail.com
 
 **Website:** https://fridgesnap.app/privacy
 

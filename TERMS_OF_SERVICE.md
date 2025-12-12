@@ -210,7 +210,7 @@ Upon termination, your right to use the App ceases immediately.
 
 ### 13.1 Informal Resolution
 
-Before filing a legal claim, you agree to contact us at legal@fridgesnap.app to attempt to resolve the dispute informally.
+Before filing a legal claim, you agree to contact us at ivan.slnnk@gmail.com to attempt to resolve the dispute informally.
 
 ### 13.2 Arbitration Agreement
 
@@ -229,7 +229,7 @@ You may bring claims in small claims court if they qualify. Either party may see
 
 ### 13.4 Opt-Out
 
-You may opt out of arbitration within 30 days of first using the App by emailing legal@fridgesnap.app with your name and a statement that you opt out of the arbitration agreement.
+You may opt out of arbitration within 30 days of first using the App by emailing ivan.slnnk@gmail.com with your name and a statement that you opt out of the arbitration agreement.
 
 ---
 
@@ -265,9 +265,9 @@ These Terms do not create any agency, partnership, or joint venture between you 
 
 For questions about these Terms:
 
-**Email:** legal@fridgesnap.app
+**Email:** ivan.slnnk@gmail.com (support or any requests)
 
-**Support:** support@fridgesnap.app
+**Support:** ivan.slnnk@gmail.com
 
 **Website:** https://fridgesnap.app/terms
 
