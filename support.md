@@ -22,8 +22,8 @@ We typically respond within 24-48 hours during business days.
 
 ## Quick Links
 
-- [Privacy Policy](/PRIVACY_POLICY.html)
-- [Terms of Service](/TERMS_OF_SERVICE.html)
+- [Privacy Policy](/fridgesnapdocs/PRIVACY_POLICY)
+- [Terms of Service](/fridgesnapdocs/TERMS_OF_SERVICE)
 
 ---
 
